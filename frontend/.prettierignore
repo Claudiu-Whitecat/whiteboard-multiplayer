@@ -1,0 +1,22 @@
+# Dependencies & builds
+node_modules
+.nitro
+.nuxt
+.output
+.dist
+dist
+.cache
+coverage
+
+# Package managers
+.pnpm-store
+.yarn
+.yarn/cache
+
+# Hosting / CI artifacts
+.vercel
+.netlify
+
+# Logs & misc
+*.log
+.DS_Store
